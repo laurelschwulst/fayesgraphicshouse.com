@@ -19,8 +19,8 @@
 		 		<?php if ($work->slideshow() == '1'): ?>
 		 			<img src="<?php echo $work->images()->first()->url() ?>">
 		 		<?php elseif ($work->images()->count() > 1): ?>
-			 		<img src="<?php echo $work->images()->first()->url() ?>" class="still">
-			 		<img src="<?php echo $work->images()->nth(1)->url() ?>" class="moving">
+			 		<img src="<?php echo $work->images()->first()->url() ?>" class="moving">
+			 		<img src="<?php echo $work->images()->nth(1)->url() ?>" class="still">
 			 	<?php else : ?>
 			 		<img src="<?php echo $work->images()->first()->url() ?>">
 			 	<?php endif ?>
