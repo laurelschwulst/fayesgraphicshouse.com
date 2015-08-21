@@ -1,0 +1,25 @@
+Background: black
+
+----
+
+Title: Drawing at Night
+
+----
+
+Year: 2015
+
+----
+
+Text: 
+
+----
+
+Slideshow: 
+
+----
+
+Percentage-top: 57
+
+----
+
+Percentage-left: 19

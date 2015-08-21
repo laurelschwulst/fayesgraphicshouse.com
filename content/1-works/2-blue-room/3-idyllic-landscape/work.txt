@@ -1,0 +1,25 @@
+Background: white
+
+----
+
+Title: Idyllic Landscape
+
+----
+
+Year: 2014
+
+----
+
+Text: 
+
+----
+
+Slideshow: 
+
+----
+
+Percentage-top: 24
+
+----
+
+Percentage-left: 66

@@ -1,0 +1,25 @@
+Background: white
+
+----
+
+Title: Argument
+
+----
+
+Year: 2014
+
+----
+
+Text: 
+
+----
+
+Slideshow: 
+
+----
+
+Percentage-top: 14
+
+----
+
+Percentage-left: 20

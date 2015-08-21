@@ -1,0 +1,16 @@
+body {
+  background: #000;
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+}
+
+.image-caption a {
+  color: #fff;
+  border-bottom: 1px solid #fff;
+  -webkit-font-smoothing: antialiased;
+}
+
+.multi-link {
+	background: #000;
+	color: #fff;
+}

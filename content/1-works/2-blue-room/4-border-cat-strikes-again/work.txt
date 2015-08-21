@@ -1,0 +1,25 @@
+Background: white
+
+----
+
+Title: Border Cat Strikes Again
+
+----
+
+Year: 2015
+
+----
+
+Text: 
+
+----
+
+Slideshow: 
+
+----
+
+Percentage-top: 52
+
+----
+
+Percentage-left: 48

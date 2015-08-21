@@ -1,0 +1,25 @@
+Title: Bleah
+
+----
+
+Year: 2015
+
+----
+
+Text: 
+
+----
+
+Percentage-top: 28
+
+----
+
+Percentage-left: 8
+
+----
+
+Background: white
+
+----
+
+Slideshow: 

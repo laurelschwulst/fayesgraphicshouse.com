@@ -1,0 +1,25 @@
+Background: white
+
+----
+
+Title: Confused Dog
+
+----
+
+Year: 2014
+
+----
+
+Text: 
+
+----
+
+Slideshow: 
+
+----
+
+Percentage-top: 28
+
+----
+
+Percentage-left: 4

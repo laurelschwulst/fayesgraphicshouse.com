@@ -1,0 +1,21 @@
+Title: Non-Reaction Gif
+
+----
+
+Year: 2015
+
+----
+
+Text: 
+
+----
+
+Percentage-top: 58
+
+----
+
+Percentage-left: 16
+
+----
+
+Background: black

@@ -1,0 +1,25 @@
+Background: black
+
+----
+
+Title: Journalism
+
+----
+
+Year: 2014
+
+----
+
+Text: 
+
+----
+
+Slideshow: 
+
+----
+
+Percentage-top: 41
+
+----
+
+Percentage-left: 8

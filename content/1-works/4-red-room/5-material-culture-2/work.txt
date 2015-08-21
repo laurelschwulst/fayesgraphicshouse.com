@@ -1,0 +1,25 @@
+Background: white
+
+----
+
+Title: Material Culture 2
+
+----
+
+Year: 2012
+
+----
+
+Text: 
+
+----
+
+Slideshow: 
+
+----
+
+Percentage-top: 40
+
+----
+
+Percentage-left: 45

@@ -1,0 +1,25 @@
+Background: white
+
+----
+
+Title: Emoji
+
+----
+
+Year: 2015
+
+----
+
+Text: 
+
+----
+
+Slideshow: 
+
+----
+
+Percentage-top: 10
+
+----
+
+Percentage-left: 74

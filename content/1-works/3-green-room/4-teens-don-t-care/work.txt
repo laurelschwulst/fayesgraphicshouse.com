@@ -1,0 +1,25 @@
+Background: white
+
+----
+
+Title: Teens Don't Care
+
+----
+
+Year: 2014
+
+----
+
+Text: 
+
+----
+
+Slideshow: 
+
+----
+
+Percentage-top: 15
+
+----
+
+Percentage-left: 74

@@ -1,0 +1,25 @@
+Background: white
+
+----
+
+Title: Panic for a Second
+
+----
+
+Year: 2011
+
+----
+
+Text: 
+
+----
+
+Slideshow: 
+
+----
+
+Percentage-top: 10
+
+----
+
+Percentage-left: 82

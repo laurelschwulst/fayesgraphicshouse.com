@@ -1,0 +1,25 @@
+Background: white
+
+----
+
+Title: Singing Donut
+
+----
+
+Year: 2015
+
+----
+
+Text: 
+
+----
+
+Slideshow: 
+
+----
+
+Percentage-top: 48
+
+----
+
+Percentage-left: 22

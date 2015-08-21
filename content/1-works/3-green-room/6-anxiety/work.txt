@@ -1,0 +1,25 @@
+Background: white
+
+----
+
+Title: Anxiety
+
+----
+
+Year: 2014
+
+----
+
+Text: 
+
+----
+
+Slideshow: 
+
+----
+
+Percentage-top: 60
+
+----
+
+Percentage-left: 48

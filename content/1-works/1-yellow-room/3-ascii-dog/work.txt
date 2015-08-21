@@ -1,0 +1,25 @@
+Background: white
+
+----
+
+Title: ASCII Dog
+
+----
+
+Year: 2014
+
+----
+
+Text: 
+
+----
+
+Percentage-top: 40
+
+----
+
+Percentage-left: 38
+
+----
+
+Slideshow: 

@@ -1,0 +1,25 @@
+Background: black
+
+----
+
+Title: Night Light
+
+----
+
+Year: 2013
+
+----
+
+Text: 
+
+----
+
+Slideshow: 
+
+----
+
+Percentage-top: 65
+
+----
+
+Percentage-left: 69

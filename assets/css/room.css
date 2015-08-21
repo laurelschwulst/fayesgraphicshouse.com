@@ -1,0 +1,9 @@
+body {
+	overflow: hidden;
+}
+
+@media screen and (max-width: 808px) {
+	body {
+		overflow-y: auto;
+	}
+}

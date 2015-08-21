@@ -1,0 +1,25 @@
+Background: black
+
+----
+
+Title: Zugzwang
+
+----
+
+Year: 2015
+
+----
+
+Text: Xeroxed Zine for (link: http://goodpressgallery.co.uk/ text: Good Press Gallery) “Good Press On Demand” Group Show
+
+----
+
+Slideshow: 
+
+----
+
+Percentage-top: 44
+
+----
+
+Percentage-left: 24

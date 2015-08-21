@@ -1,0 +1,11 @@
+Title: Elsewhere
+
+----
+
+Text: 
+
+(link: http://yex.tumblr.com/ text: Tumblr)
+(link: https://instagram.com/hfayefaye/ text: Instagram)
+(link: http://www.last.fm/user/hfayefaye text: Last.fm)
+(link: https://twitter.com/hfayefaye text: Twitter)
+(link: http://www.wfmu.org/playlists/HC text: WFMU)

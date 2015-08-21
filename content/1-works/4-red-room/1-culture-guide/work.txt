@@ -1,0 +1,25 @@
+Background: black
+
+----
+
+Title: Culture Guide
+
+----
+
+Year: 2015
+
+----
+
+Text: Risograph Booklet printed by (link: http://www.perfectly-acceptable.com/ text: Perfectly Acceptable Press) for Chicago Alternative Comics Expo 2015
+
+----
+
+Percentage-top: 12
+
+----
+
+Percentage-left: 64
+
+----
+
+Slideshow: 1

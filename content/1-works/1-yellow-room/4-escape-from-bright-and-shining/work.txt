@@ -1,0 +1,25 @@
+Background: white
+
+----
+
+Title: Escape from Bright and Shining
+
+----
+
+Year: 2012
+
+----
+
+Text: Risograph Bookle printed by (link: http://troyclothandpaper.com/ text: Troy Cloth & Paper) for New York Art Book Fair 2012
+
+----
+
+Percentage-top: 20
+
+----
+
+Percentage-left: 58
+
+----
+
+Slideshow: 

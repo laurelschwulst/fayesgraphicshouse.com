@@ -1,0 +1,25 @@
+Background: black
+
+----
+
+Title: How Skateboarding Works
+
+----
+
+Year: 2014
+
+----
+
+Text: 
+
+----
+
+Slideshow: 
+
+----
+
+Percentage-top: 18
+
+----
+
+Percentage-left: 24
