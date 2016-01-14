@@ -4,9 +4,8 @@ This is a personal website for H. Faye Kahn’s online portfolio, called “Faye
 
 ### Colophon
 
-Design and programming was done by [Beautiful Company](http://beautiful-company.com).
+Design and programming is by [Beautiful Company](http://beautiful-company.com).
 
-The site is floating on [kirby cms](http://getkirby.com/).
+The site is built on [Kirby CMS](http://getkirby.com/).
 
 Typography is Verdana by Matthew Carter.
-
