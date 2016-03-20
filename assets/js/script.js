@@ -93,6 +93,7 @@ $(document).ready(function() {
 	$('a#plant, a#ellipsis').click(function(){
 		// $('body.home').css('overflow-y','scroll');
 		var href = $.attr(this, 'href');
+		alert(href);
 	    $('html, body').animate({
 	        scrollTop: $(href).offset().top
 	    }, 500, function () {
